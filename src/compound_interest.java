@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class compound_interest {
 
     public static void main(String[] args) {
-        //Hypotenuse = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
         //Compound Interest : A = P(1 + r/n)nt
         Scanner input = new Scanner(System.in);
 
